@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_items">Test</string-array>
+    <string-array name="planets_array">
+        <item>Новости компании</item>
+        <item>Карта</item>
+        <item>Настройки</item>
+        <item>Обратная связь</item>
+    </string-array>
+</resources>

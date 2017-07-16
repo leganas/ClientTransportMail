@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClientTransportMail</string>
+    <string name="demo">Тест</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBoQ8zuQ4mboa5070I-6AF-mi7Ea3GYjrs</string>
+</resources>
